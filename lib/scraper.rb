@@ -20,7 +20,7 @@ class Scraper
  
  binding.pry 
   
-  
+  Scarper.new.get_page
   
   
   
